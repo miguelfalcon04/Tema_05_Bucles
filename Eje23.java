@@ -27,7 +27,7 @@ public class Eje23 {
 
         System.out.println("El total es de: "+sum);
         System.out.println("El contador de número es: "+cont);
-        System.out.println("La media de los número es: "+(sum/cont));
+        System.out.println("La media de los número es: "+(float)(sum/cont));
 
         sc.close();
     }
